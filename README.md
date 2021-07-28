@@ -1,2 +1,2 @@
-# pop_os-alacritty
+# Pop!OS Alacritty Theme
 Pop!OS theme for alacritty
